@@ -1,2 +1,2 @@
 # PythonSesliAsistan
-#Benim Üniversite İkinci Sınıfta Emre Tatlıcıyla Beraber Yaptığım bir projedir
+#Benim Üniversite İkinci Sınıfta Python dersinin Projesidir. klasör içinde erasmus programındayken yaptığım bir UI hazırlanmıştır fakat bağlanmamıştır.
